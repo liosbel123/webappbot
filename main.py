@@ -24,7 +24,7 @@ def start(update: Update, context: CallbackContext):
         "inline_keyboard": [
             [
                 {
-                    "text": "Abrir Google",
+                    "text": "Open Google",
                     "web_app": {"url": "https://google.com"}
                 }
             ]
