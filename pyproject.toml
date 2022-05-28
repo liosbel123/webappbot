@@ -6,6 +6,9 @@ authors = ["Reinier Hernández <sasuke.reinier@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+python-telegram-bot = "^13.12"
+python-dotenv = "^0.20.0"
+requests = "^2.27.1"
 
 [tool.poetry.dev-dependencies]
 
